@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Let's test spoilers"
+title:  "Types of drones "
 author: sal
 categories: [ Jekyll, tutorial ]
-image: assets/images/12.jpg
+image: assets/images/drone.jpg
 featured: true
 hidden: true
 ---
