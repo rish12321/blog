@@ -28,7 +28,7 @@ A live fpv (first-person-view) setup allows the pilot who typically wears goggle
 This is needed to be able to carry the heavy camera and gimbal needed for professional aerial photography.
 
 
-5. Other custom rigs- this may be used for aerial mapping, or for something like agriculture.
+5. Other custom rigs- this may be used for aerial mapping, or for something like agriculture- automated seed dropping, pestiside application.
 
 
  
