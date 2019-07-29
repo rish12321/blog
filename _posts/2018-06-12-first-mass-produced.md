@@ -1,16 +1,32 @@
 ---
 layout: post
-title:  "The first mass-produced book to deviate from a rectilinear format"
-author: sal
+title:  "Types of drones (based on application)"
+author:
 categories: [ Jekyll, tutorial ]
-image: assets/images/17.jpg
+image: assets/images/drone.jpg
 ---
-The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter. 
+TYPES OF DRONES :
 
-An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll... originated with us”. 
+1. Basic beginner quadcopter- a basic rig that is comparitively easier to setup and meant for leisure flying.
+Medium sized (300-500 size), most common being the DJI F450 platform.
 
-> It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story. 
 
-The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes. 
+2. Advanced quadcopter- a step up from the beginner quadcopter, more powerful with lower kv motors, a slightly bigger frame (such as a tarot 650, or a TBS discovery).
+Can be used for leisure flying, but the bigger size allows it to easily carry a 2 or 3 axis gimbal and an actioncamera such as the Sjcam , yicam , etc.
+Can have a live fpv feed as well, to get the right footage.
 
-As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.
+
+3. FPV racer- Relatively new, very agile quadcopters meant for either freestyle or as the name suggests, fpv racing.
+Typically includes high kv motors 2300-2700kv, 3-4s lipo batteries, and are really compact and a small frame (220 size).
+A live fpv (first-person-view) setup allows the pilot who typically wears goggles to get ultra low latency feed and fly fast as if in the pilot seat.
+
+
+4. Aerial Photography rig- these are high end rigs that can be custom built and can carry a heavy payload, with very low kv motors 3-400kv.
+This is needed to be able to carry the heavy camera and gimbal needed for professional aerial photography.
+
+
+5. Other custom rigs- this may be used for aerial mapping, or for something like agriculture- automated seed dropping, pestiside application.
+
+
+
+
