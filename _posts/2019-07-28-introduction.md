@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "INTRO."
-author: john
+author: Rishabh
 categories: [ Jekyll, tutorial ]
 tags: [red, yellow]
 image: assets/images/intro.jpg

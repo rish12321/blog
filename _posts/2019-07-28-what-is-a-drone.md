@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What is a drone? "
-author: sal
+author: Rishabh
 categories: [ Jekyll, tutorial ]
 image: assets/images/drone.jpg
 featured: true
